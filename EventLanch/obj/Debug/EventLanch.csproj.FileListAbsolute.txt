@@ -1,0 +1,15 @@
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\bin\Debug\EventLanch.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\bin\Debug\EventLanch.pdb
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Debug\EventLanch.FormEventLanch.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Debug\EventLanch.Properties.Resources.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Debug\EventLanch.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Debug\EventLanch.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Debug\EventLanch.pdb
+C:\C#_Git\Ping\EventLanch\bin\Debug\EventLanch.exe
+C:\C#_Git\Ping\EventLanch\bin\Debug\EventLanch.pdb
+C:\C#_Git\Ping\EventLanch\obj\Debug\EventLanch.csprojResolveAssemblyReference.cache
+C:\C#_Git\Ping\EventLanch\obj\Debug\EventLanch.FormEventLanch.resources
+C:\C#_Git\Ping\EventLanch\obj\Debug\EventLanch.Properties.Resources.resources
+C:\C#_Git\Ping\EventLanch\obj\Debug\EventLanch.csproj.GenerateResource.Cache
+C:\C#_Git\Ping\EventLanch\obj\Debug\EventLanch.exe
+C:\C#_Git\Ping\EventLanch\obj\Debug\EventLanch.pdb

@@ -1,0 +1,4 @@
+C:\C#_Программы_Разработка\2016\Ping\Ping\Ping\bin\Debug\Ping.dll
+C:\C#_Программы_Разработка\2016\Ping\Ping\Ping\bin\Debug\Ping.pdb
+C:\C#_Программы_Разработка\2016\Ping\Ping\Ping\obj\Debug\Ping.dll
+C:\C#_Программы_Разработка\2016\Ping\Ping\Ping\obj\Debug\Ping.pdb

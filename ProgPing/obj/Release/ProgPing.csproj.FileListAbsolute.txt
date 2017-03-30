@@ -1,0 +1,8 @@
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\bin\Release\ProgPing.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\bin\Release\ProgPing.pdb
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Release\ProgPing.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Release\ProgPing.Form1.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Release\ProgPing.Properties.Resources.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Release\ProgPing.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Release\ProgPing.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Release\ProgPing.pdb

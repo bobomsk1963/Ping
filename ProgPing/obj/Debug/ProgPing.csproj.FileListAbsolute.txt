@@ -1,0 +1,16 @@
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Debug\ProgPing.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Debug\ProgPing.Form1.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Debug\ProgPing.Properties.Resources.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Debug\ProgPing.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\bin\Debug\ProgPing.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\bin\Debug\ProgPing.pdb
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Debug\ProgPing.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\ProgPing\obj\Debug\ProgPing.pdb
+C:\C#_Git\Ping\ProgPing\obj\Debug\ProgPing.exe
+C:\C#_Git\Ping\ProgPing\obj\Debug\ProgPing.pdb
+C:\C#_Git\Ping\ProgPing\bin\Debug\ProgPing.exe
+C:\C#_Git\Ping\ProgPing\bin\Debug\ProgPing.pdb
+C:\C#_Git\Ping\ProgPing\obj\Debug\ProgPing.csprojResolveAssemblyReference.cache
+C:\C#_Git\Ping\ProgPing\obj\Debug\ProgPing.Form1.resources
+C:\C#_Git\Ping\ProgPing\obj\Debug\ProgPing.Properties.Resources.resources
+C:\C#_Git\Ping\ProgPing\obj\Debug\ProgPing.csproj.GenerateResource.Cache

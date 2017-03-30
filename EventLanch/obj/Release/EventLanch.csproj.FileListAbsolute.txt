@@ -1,0 +1,7 @@
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\bin\Release\EventLanch.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\bin\Release\EventLanch.pdb
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Release\EventLanch.FormEventLanch.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Release\EventLanch.Properties.Resources.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Release\EventLanch.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Release\EventLanch.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventLanch\obj\Release\EventLanch.pdb

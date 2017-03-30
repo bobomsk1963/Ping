@@ -1,0 +1,16 @@
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventServer\bin\Debug\EventServer.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventServer\bin\Debug\EventServer.pdb
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventServer\obj\Debug\EventServer.FormEventServer.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventServer\obj\Debug\EventServer.Properties.Resources.resources
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventServer\obj\Debug\EventServer.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventServer\obj\Debug\EventServer.exe
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventServer\obj\Debug\EventServer.pdb
+C:\C#_Программы_Разработка\2016\Ping\Ping\EventServer\obj\Debug\EventServer.csprojResolveAssemblyReference.cache
+C:\C#_Git\Ping\EventServer\bin\Debug\EventServer.exe
+C:\C#_Git\Ping\EventServer\bin\Debug\EventServer.pdb
+C:\C#_Git\Ping\EventServer\obj\Debug\EventServer.csprojResolveAssemblyReference.cache
+C:\C#_Git\Ping\EventServer\obj\Debug\EventServer.FormEventServer.resources
+C:\C#_Git\Ping\EventServer\obj\Debug\EventServer.Properties.Resources.resources
+C:\C#_Git\Ping\EventServer\obj\Debug\EventServer.csproj.GenerateResource.Cache
+C:\C#_Git\Ping\EventServer\obj\Debug\EventServer.exe
+C:\C#_Git\Ping\EventServer\obj\Debug\EventServer.pdb

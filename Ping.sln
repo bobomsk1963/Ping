@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ping", "Ping\Ping.csproj", "{508E217F-2421-48AC-8182-FD67AE7A983E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgPing", "ProgPing\ProgPing.csproj", "{59143B49-FD19-4316-BEB2-61FFE36B1158}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLanch", "EventLanch\EventLanch.csproj", "{0A0A644F-7BAB-4630-85D2-3601AF4DEB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventServer", "EventServer\EventServer.csproj", "{2DED976D-9DD9-410F-86B9-702044A1522E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508E217F-2421-48AC-8182-FD67AE7A983E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508E217F-2421-48AC-8182-FD67AE7A983E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508E217F-2421-48AC-8182-FD67AE7A983E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508E217F-2421-48AC-8182-FD67AE7A983E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59143B49-FD19-4316-BEB2-61FFE36B1158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59143B49-FD19-4316-BEB2-61FFE36B1158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59143B49-FD19-4316-BEB2-61FFE36B1158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59143B49-FD19-4316-BEB2-61FFE36B1158}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0A644F-7BAB-4630-85D2-3601AF4DEB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0A644F-7BAB-4630-85D2-3601AF4DEB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0A644F-7BAB-4630-85D2-3601AF4DEB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0A644F-7BAB-4630-85D2-3601AF4DEB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DED976D-9DD9-410F-86B9-702044A1522E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DED976D-9DD9-410F-86B9-702044A1522E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DED976D-9DD9-410F-86B9-702044A1522E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DED976D-9DD9-410F-86B9-702044A1522E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
